@@ -24,10 +24,15 @@ elif val == "2":
             print(f"Jens: Okej {namn}. Jobba med Wilmer då.")
         elif val == "2":
             print(f"Jens: Aldrig. Blir klar med uppgiften först.")
+        elif val.lower() == "auralicious":
+            print(f"You aint duke dennis lil bro, go to bed with that shit")
         else:
             print(f"Jens: Prata svenska lil bro.")
+        
 
 elif val == "3":
-    print(f"Jens: Jag förstår{namn}. Jag tog den ändå från ChatGPT")
+    print(f"Jens: Jag förstår {namn}. Jag tog den ändå från ChatGPT")
+elif val.lower() == "auralicious":
+    print(f"You aint duke dennis lil bro, go to bed with that shit")
 else:
     print(f"Jens: Prata svenska lil bro.")
