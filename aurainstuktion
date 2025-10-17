@@ -1,9 +1,0 @@
-cd code
-mkdir tp-övning
-cd tp-övning/
-code .
-
-initialize repository
-skriv en commit
-publish branch
-public repository

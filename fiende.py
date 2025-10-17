@@ -33,7 +33,7 @@ while True:
         elvira -= gustav_attack
         gustav -= elvira_attack
         print(f"Elvira skjuter sin Desert Eagle 50AE kula på Gustav för {elvira_attack} dmg")
-        print(f"Gustav kastar en sliter ut Elviras strupe för {gustav_attack} dmg")
+        print(f"Gustav sliter ut Elviras strupe för {gustav_attack} dmg")
         print(f"Elvira har {elvira}hp och Gustav {gustav}hp")
         if 0>= gustav and 0>= elvira:
             print(f"Båda har 0hp kvar och dem fucking dödar varandra")
